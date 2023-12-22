@@ -76,8 +76,7 @@ j) Unidade de controle é uma unidade lógica do computador que coordena as ativ
 a) A linguagem de programação Java é agora utilizada para desenvolver aplicativos corporativos de grande porte, aprimorar a
 funcionalidade de servidores da web, fornecer aplicativos a dispositivos de consumo popular e para muitos outros propósitos.  
 b) Inicialmente, o C tornou-se muito conhecido como a linguagem de desenvolvimento do sistema operacional UNIX.  
-c) O TCP(Transmission Conntrol Protocol) garante que as mensagens, que consistem em partes sequencialmente numeradas chamadas bytes, sejam adequadamente.  
-encaminhadas do emissor para o receptor, cheguem intactas e sejam montadas na ordem correta.  
+c) O TCP(Transmission Conntrol Protocol) garante que as mensagens, que consistem em partes sequencialmente numeradas chamadas bytes, sejam adequadamente encaminhadas do emissor para o receptor, cheguem intactas e sejam montadas na ordem correta.    
 d) A linguagem de programação C++ foi desenvolvida por Bjarne Stroustrup no início dos anos 1980 na Bell Laboratories.  
 
 #### 1.6 Preencha as lacunas em cada uma das seguintes afirmações:
